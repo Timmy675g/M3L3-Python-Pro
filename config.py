@@ -1,3 +1,3 @@
-TOKEN = ""
+TOKEN = "Token"
 
 DATABASE = "Portofolio.db"
